@@ -226,7 +226,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=LeandroNV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.zcy.dev/api?username=LeandroNV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%">
 <img src="https://streak-stats.demolab.com/?user=LeandroNV&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="100%" alt="GitHub Streak" />
@@ -239,7 +239,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&langs_count=10&cache_seconds=1800" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=LeandroNV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&langs_count=10" width="100%" alt="Top Languages" />
 </td>
 <td width="50%">
 <img src="https://github-profile-trophy.vercel.app/?username=LeandroNV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3" width="100%" alt="GitHub Trophies" />
