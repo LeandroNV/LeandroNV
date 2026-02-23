@@ -36,74 +36,54 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
 
-```typescript
-const leandro = {
-	name: 'Leandro Vargas',
-	username: 'LeonicVar',
-	title: 'Full Stack Developer',
-	location: 'Bogota DC, Colombia 🇨🇴',
+<div align="center">
 
-	code: {
-		frontend: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
-		backend: ['Python', 'Node.js', 'PHP', 'C', 'C++', 'C#'],
-		interests: [
-			'Web Dev',
-			'System Programming',
-			'API Design',
-			'Database Architecture',
-		],
-	},
+<table>
+<tr>
+<td valign="top" width="50%">
 
-	technologies: {
-		frontend: {
-			frameworks: ['React', 'Vue.js', 'Next.js', 'Angular'],
-			styling: ['Tailwind CSS', 'Bootstrap', 'Material-UI', 'SASS'],
-			stateManagement: ['Redux', 'Zustand', 'Pinia'],
-		},
-		backend: {
-			nodeJs: ['Express.js', 'NestJS', 'Fastify', 'Socket.io'],
-			python: ['Django', 'Flask', 'FastAPI', 'Celery'],
-			php: ['Laravel', 'Symfony', 'CodeIgniter'],
-			dotNet: ['.NET Core', 'ASP.NET', 'Entity Framework'],
-		},
-		databases: {
-			sql: ['MySQL', 'PostgreSQL', 'SQLite', 'MariaDB'],
-			noSql: ['MongoDB', 'Redis', 'Firebase'],
-			orm: ['Prisma', 'TypeORM', 'Sequelize', 'SQLAlchemy'],
-		},
-		devOps: {
-			containerization: ['Docker', 'Kubernetes', 'Docker Compose'],
-			cloud: ['AWS', 'Azure', 'Google Cloud', 'DigitalOcean'],
-			ciCd: ['GitHub Actions', 'Jenkins', 'GitLab CI'],
-			monitoring: ['Prometheus', 'Grafana', 'ELK Stack'],
-		},
-		tools: ['Git', 'VS Code', 'Postman', 'Linux', 'Nginx', 'Apache'],
-	},
+### 👤 Personal Info
 
-	architecture: [
-		'Microservices',
-		'RESTful API',
-		'GraphQL',
-		'MVC',
-		'Event-Driven',
-		'Serverless',
-	],
+| | |
+|---|---|
+| 🙋 **Name** | Leandro Vargas |
+| 🏷️ **Username** | LeonicVar |
+| 💼 **Title** | Full Stack Developer |
+| 📍 **Location** | Bogota DC, Colombia 🇨🇴 |
+| 🌐 **GitHub** | [LeandroNV](https://github.com/LeandroNV) |
 
-	currentlyLearning: ['Rust', 'Go', 'WebAssembly', 'AI/ML'],
-	currentProjects: [
-		'Building scalable full-stack applications',
-		'Contributing to open source',
-	],
+</td>
+<td valign="top" width="50%">
 
-	workingOn: '🔨 Crafting beautiful and efficient digital solutions',
-	openFor: '💼 Job opportunities | 🤝 Collaborations | 💡 Innovative projects',
+### 🎯 Currently
 
-	funFact: "I debug with console.log() and I'm proud of it! 🐛✨",
-	motto: 'Code with passion, deploy with confidence! 🚀',
-};
+| | |
+|---|---|
+| 🔨 **Working on** | Scalable full-stack applications |
+| 📚 **Learning** | Rust · Go · WebAssembly · AI/ML |
+| 🤝 **Open for** | Jobs · Collabs · Projects |
+| 🐛 **Fun fact** | I debug with `console.log()` and I'm proud of it! |
+| 🚀 **Motto** | Code with passion, deploy with confidence! |
 
-console.log("Let's build something amazing together! 💻");
-```
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💡 Interests & Architecture
+
+![Web Dev](https://img.shields.io/badge/Web_Dev-36BCF7?style=flat-square&logoColor=white)
+![System Programming](https://img.shields.io/badge/System_Programming-36BCF7?style=flat-square&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-36BCF7?style=flat-square&logoColor=white)
+![Database Architecture](https://img.shields.io/badge/Database_Architecture-36BCF7?style=flat-square&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-7957D5?style=flat-square&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-7957D5?style=flat-square&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-7957D5?style=flat-square&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-7957D5?style=flat-square&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-7957D5?style=flat-square&logoColor=white)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
