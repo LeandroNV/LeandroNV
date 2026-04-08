@@ -207,9 +207,6 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.zcy.dev/api?username=LeandroNV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" width="100%" alt="GitHub Stats" />
-</td>
-<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=LeandroNV&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
@@ -221,9 +218,6 @@
 <tr>
 <td width="50%">
 <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=LeandroNV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&langs_count=10" width="100%" alt="Top Languages" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.zcy.dev/api?username=LeandroNV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&show=prs_merged,prs_merged_percentage,discussions_answered" width="100%" alt="GitHub Extra Stats" />
 </td>
 </tr>
 </table>
