@@ -32,7 +32,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me
 
@@ -48,7 +47,7 @@
 |---|---|
 | 🙋 **Name** | Leandro Vargas |
 | 🏷️ **Username** | LeonicVar |
-| 💼 **Title** | Full Stack Developer |
+| 💼 **Title** | Software Engineer |
 | 📍 **Location** | Bogota DC, Colombia 🇨🇴 |
 | 🌐 **GitHub** | [LeandroNV](https://github.com/LeandroNV) |
 
@@ -85,9 +84,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Stack & Tools
+
 
 <div align="center">
 
@@ -201,7 +200,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
@@ -243,7 +241,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus & Goals
 
@@ -262,7 +259,6 @@
 - ☁️ Advanced cloud architecture patterns
   <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Connect With Me
 
@@ -289,17 +285,14 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ###  "First, solve the problem. Then, write the code." 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories;Don't+forget+to+star+%E2%AD%90+if+you+like+them!;Open+for+collaborations+and+opportunities!;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 🌟 Show Some Love
+### Show Some Love
 
 <a href="https://github.com/LeandroNV?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
